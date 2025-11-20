@@ -10,7 +10,5 @@ tqdm
 Pillow
 fire
 torchattacks
-torch
-torchvision
 grad-cam
 torchsummary
